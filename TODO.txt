@@ -1,0 +1,14 @@
+- Guild section (guild levels, taming, GvG)
+- PvP section (restrictions, rewards, rankings)
+- Economy section (marketplace, trading, token)
+- Wugushi poison pot items and boss card interaction
+- Rogue capture hidden class' spell interaction
+- More companion information (closeness, food)
+- More knockdown information
+- Monster hunting card reward information
+- Fill in remaining dailies/mission card levels
+- Confirm enchanting min/max values
+- Collection list sorted by stat
+- Earth tower/dungeons information
+- Critical chance, block chance, evasion chance formula testing/evaluation
+- Observe itos/ktos differences

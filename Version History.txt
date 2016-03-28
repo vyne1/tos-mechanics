@@ -1,20 +1,44 @@
+v0.4.0  28/03/16  	- Added Enchanting to Enhancement section
+					- Added new pets
+					- Changed Experience headings and added new content 
+					- Added Team Level and Card Battle to Gameplay section
+					- Wording changes across document
+					- Updated starting stats
+					- Fixed stat bonus example calculations
+					- Removed critical % chance formula (needs further testing) 
+					- Fixed block stat formula and added guard formula
+					- Changed companion MSPD bonus to 4
+					- Added new stat increase sources (primarily buff limit)
+					- Moved Death Penalty to Rank 1 Debuff, Hexing to Rank 2 Debuff
+					- Added note for Joint Penalty status
+					- Changed Iron Hook type to Incapacitate 
+					- Added Flammidus card to Summoning section
+					- Added Running Shot to Spiritual Chain compatibility and mount compatibility
+					- Added information on auto-dismount and weapon swap mechanic
+					- Added Dragoon skills, Rodelero's Montano and removed C2 Doppelsoeldner skills to mount compatibility
+					- Added Rogue Capture to skill-specific mechanics section
+					- Fixed Level 10 Gem experience
+					- Removed Future section, added TODO document
+					- Updated readme
+					
+
 v0.3.1	14/01/16	- Added pdf bookmark navigation to section headers 
-			- Added version history to repository
-			- Renamed guide pdf
-			- Updated Future section for more detail
-			- Fixed Appendices references
-			- Removed Appendix A - Stat / Skill Interactions. Will bring back when skill changes slow down
-			- Removed Druid from Rank 1 disable (Telepath is a Rank 10 disable)
-			- Updated gem sections to reflect lv. 1 gems breaking on removal from equipment 
-			- Changed monster gem given experience to 7350
-			- Added a note on Amulets as they are currently removed from the game
-			- Added a note on potential overheat bug
-			- Added Stone Skin as a skill which allows you to block attacks 
-			- Removed Revenged Sevenfold from Spiritual Link section (already a party buff)
-			- Fixed some spellings mistakes
+					- Added version history to repository
+					- Renamed guide pdf
+					- Updated Future section for more detail
+					- Fixed Appendices references
+					- Removed Appendix A - Stat / Skill Interactions. Will bring back when skill changes slow down
+					- Removed Druid from Rank 1 disable (Telepath is a Rank 10 disable)
+					- Updated gem sections to reflect lv. 1 gems breaking on removal from equipment 
+					- Changed monster gem given experience to 7350
+					- Added a note on Amulets as they are currently removed from the game
+					- Added a note on potential overheat bug
+					- Added Stone Skin as a skill which allows you to block attacks 
+					- Removed Revenged Sevenfold from Spiritual Link section (already a party buff)
+					- Fixed some spellings mistakes
 
 
 
 v0.3.0	13/01/16	- Release version
-			- Stats, Combat, Skills, Companions, Equipment and Gameplay content 'completed'
+					- Stats, Combat, Skills, Companions, Equipment and Gameplay content 'completed'
 
