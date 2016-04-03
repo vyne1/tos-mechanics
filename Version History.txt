@@ -1,3 +1,10 @@
+v0.4.1  04/04/16	- Fixed pet class restrictions
+					- Removed overheat tips related to waiting out duration
+					- Clarified experience card section
+					- Actually added Flammidus card to Summoning section
+					- Fixed Weapon Refinement Cost appendix formatting
+					- General wording changes
+
 v0.4.0  28/03/16  	- Added Enchanting to Enhancement section
 					- Added new pets
 					- Changed Experience headings and added new content 
